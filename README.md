@@ -154,6 +154,4 @@ Quiero invitarte a apoyar mi trabajo con un yapeo voluntario para que pueda segu
 - `Tabler.io` — dashboard template open source
 - `codecalm.net` / `Paweł Kuna`
 
----
 
-> `README.md` preparado para GitHub: describe la plantilla, uso, recursos, páginas y despliegue.
