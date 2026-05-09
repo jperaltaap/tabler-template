@@ -144,7 +144,7 @@ Quiero invitarte a apoyar mi trabajo con un yapeo voluntario para que pueda segu
 - Puedes usar un código QR con tu enlace de Yape o cualquier otra billetera digital.
 - Si decides apoyar este proyecto, tu aporte ayudará a mantener el desarrollo y permitir la creación de más recursos gratuitos.
 
-![Código QR de donación](https://placecomp.com/assets/img/codigoqr.jpg)
+<img src="https://placecomp.com/assets/img/codigoqr.jpg" width="250" alt="Código QR de donación">
 
 > ¡Gracias de antemano a quienes deseen apoyar con un yapeo voluntario! Tu ayuda es muy valiosa para seguir desarrollando proyectos libres.
 
